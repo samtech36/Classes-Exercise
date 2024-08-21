@@ -15,6 +15,7 @@ public class Car
     public void Type()
     {
         Console.WriteLine($"The Car i have is a {Year} {Make} {Model}.");
+        Console.WriteLine("-------------------------------------------");
     }
     
     
